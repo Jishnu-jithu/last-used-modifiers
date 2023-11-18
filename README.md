@@ -7,12 +7,8 @@ The Last Used Modifiers addon for Blender is designed to streamline your workflo
 </p>
 
 <p align="center">
-  <a href="https://www.blendermarket.com/products/render-palette">
-    <span style="display:inline-block;"><strong><u>Purchase Pro version - Blender Market</u></strong></span>
-  </a>
-•  
   <a href="https://jishnukv.gumroad.com/l/render-palette?layout=profile">
-    <span style="display:inline-block;"><strong><u>Gumroad</u></strong></span>
+    <span style="display:inline-block;"><strong><u>Purchase Add-on from Gumroad</u></strong></span>
   </a>
 </p>
 
