@@ -8,7 +8,11 @@ The Last Used Modifiers addon for Blender is designed to streamline your workflo
 
 <p align="center">
   <a href="https://jishnukv.gumroad.com/l/last-used-modifiers?layout=profile">
-    <span style="display:inline-block;"><strong><u>Purchase Add-on from Gumroad</u></strong></span>
+    <span style="display:inline-block;"><strong><u>Download from Gumroad</u></strong></span>
+  </a>
+•  
+  <a href="https://www.blendermarket.com/products/last-used-modifiers">
+    <span style="display:inline-block;"><strong><u>Purchase from Blender market</u></strong></span>
   </a>
 </p>
 
