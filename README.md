@@ -14,6 +14,8 @@ The Last Used Modifiers addon for Blender is designed to streamline your workflo
 
 ## Features
 - Displays last used modifiers in the add modifier menu for quick access.
+- Switch between the new and old modifier menus, or use both depending on your preference.
+- Easily find the modifier you need using the type-to-search feature in the old modifier menu.
 - Allows customization of the number of displayed modifier items through the options menu in the properties panel.
 
 ## Installation
