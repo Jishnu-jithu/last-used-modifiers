@@ -31,5 +31,4 @@ The Last Used Modifiers addon for Blender is designed to streamline your workflo
 ## Usage
 After installation, the add-on will automatically modify the add modifier button in the modifier panel to show your last used modifier once you add a modifier. You can adjust the number of displayed items through the options menu in the properties panel.
 
-
-https://github.com/Jishnu-jithu/last-used-modifiers/assets/145359279/21ea9d18-c364-4aa6-a490-521fb1c64354
+![Old-modifier](https://github.com/Jishnu-jithu/last-used-modifiers/assets/145359279/59be6101-804a-43f0-a389-d51c289a1fe9)
