@@ -1,10 +1,19 @@
-<h1 align="center">Blender Last Used Modifiers Add-on</h1>
-
-The Last Used Modifiers addon for Blender is designed to streamline your workflow by offering quick access to recently used modifiers. Forget the hassle of navigating through menus; now you can conveniently find and apply your most-used modifiers directly in the add modifier menu.
-
 <p align="center">
   <img src="https://github.com/Jishnu-jithu/last-used-modifiers/assets/145359279/d3d25c54-af32-41db-bdd6-8e4292a6a783">
 </p>
+
+<p align="center">
+  <kbd>
+    <br>
+    <a href="https://www.blendermarket.com/products/last-used-modifiers">Get it on BlenderMarket</a>
+    <br>
+    <br>
+  </kbd>
+</p>
+
+# Blender Last Used Modifiers Add-on
+
+The Last Used Modifiers addon for Blender is designed to streamline your workflow by offering quick access to recently used modifiers. Forget the hassle of navigating through menus; now you can conveniently find and apply your most-used modifiers directly in the add modifier menu.
 
 ## Features
 - Displays last used modifiers in the add modifier menu for quick access.
