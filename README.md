@@ -22,7 +22,7 @@ The Last Used Modifiers addon for Blender is designed to streamline your workflo
 - Allows customization of the number of displayed modifier items through the options menu in the properties panel.
 
 ## Installation
-1. Download the latest version of the add-on from [GitHub Releases](https://github.com/Jishnu-jithu/last-used-modifiers/releases/tag/Release).
+1. Download the latest version of the add-on from [BlenderMarket](https://www.blendermarket.com/products/last-used-modifiers).
 2. Open Blender and go to `Edit > Preferences > Add-ons`.
 3. Click `Install...` and select the downloaded file.
 4. Enable the add-on by checking the box.
